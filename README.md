@@ -97,11 +97,22 @@ their multiple and variable demands of electricity and heat. The system can be o
 different power-to-gas, gas-to-power and power-to-power scenarios.
 
 
+
+
 ## Project 2
 Condensing capacity increase on an industrial refrigeration system
 
 ##### Objective:
 The objective of this project is to detect the necessity of a condensation capacity increase for an compressed NH3 refrigeration system whilst estimating the potential savings that could be achieved on installing different sizes.
+
+
+##### Actual state of the system:
+
+Through the analysis of 6 monhts of data on a 10 minute granularity an initial data analysis is done to detect the behaviour of the important parameters. These being: flow rates, discharge pressures, suction pressures, compressor consumptions all from both lower and high stage pressure levels. Anomalies are detected on the high variations on ranges of discharge pressures mainly when an increase in demand is observed (high flow rates)
+
+Discharge pressure (Y axis) vs Flow rate (X axis)
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ad2082b2-5e84-4059-99c4-30fc48169db0)
+
 
 
 
