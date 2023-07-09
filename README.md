@@ -2,6 +2,8 @@
 **Fabrizio Llinás Biava**
 | Energy Analyst - Energy Consultant
 
+fabriziollinas12@gmail.com
+
 Master of Science in Energy Engineering from Politecnico di Milano with experience as projects engineer and data analyst. Expert in energy systems optimization, data analysis and machine learning with Python.
 
 ##### List of projects:
