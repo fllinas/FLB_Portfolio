@@ -9,9 +9,9 @@ fabriziollinas12@gmail.com
 
 | Language  | Proficiency |
 | ------------- |:-------------:|
-| Spanish      | :star: :star: :star: :star: :star:     |
-| English      | :star: :star: :star: :star: :star:     |
-| Italian      | :star: :star: :star: :star:     |
+| Spanish      | 5/5     |
+| English      | 5/5      |
+| Italian      | 4/5      |
 
 
 ##### List of projects:
