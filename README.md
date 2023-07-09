@@ -146,7 +146,8 @@ The objective of this project was to develop an optimized sequencing algorithm (
 Initially, we analyze more than 8 months of data on a 5 minute granularity to obtain necessary information on improvement possibilities. We can observe through the demand flow rates that the nature of the plant is quite variable through time, and so the possibilities of sequencing start becoming realistic.
 
 Demand distribution for all 3 main user groups (flow rate in gpm):
-![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/13320079-fdb1-45a2-8e32-96539669667b)
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/4957689d-808f-4c4c-a96c-410cdab90c6a)
+
 
 As we manipulate the data in python in order to being able to analyze sequence by sequence of compressors, we detect different efficiencies for the vast combination of compressor sequences that occur on the system.
 
