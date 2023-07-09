@@ -14,7 +14,7 @@
 
 
 ## Project 1
-Master Thesis: Optimization of the design of a and scheduling of a biomethane plant integrated with a reversible Solid Oxide Cell and a PV solar field.
+**Master Thesis: Optimization of the design of a and scheduling of a biomethane plant integrated with a reversible Solid Oxide Cell and a PV solar field.**
 
 ##### Objective:
 The objective of this thesis is to model and numerically optimize the design and scheduling of an integrated biogas-based energy plant. Optimization is carried out by formulating and implementing a mixed integer linear program (MILP) in Python, in order to obtain the optimal plant configuration, components sizing and operational strategy under different scenarios, whilst targeting the solution with the minimum annualized costs. 
@@ -100,10 +100,10 @@ different power-to-gas, gas-to-power and power-to-power scenarios.
 
 
 ## Project 2
-Condensing capacity increase on an industrial refrigeration system
+**Condensing capacity increase on an industrial refrigeration system**
 
 ##### Objective:
-The objective of this project is to detect the necessity of a condensation capacity increase for an compressed NH3 refrigeration system whilst estimating the potential savings that could be achieved on installing different sizes.
+The objective of this project is to detect the necessity of a condensation capacity increase for an compressed NH3 refrigeration system whilst estimating the potential savings that could be achieved on installing different sizes. An analysis and further simulation is done on Python to carry out the task.
 
 
 ##### Actual state of the system:
@@ -132,5 +132,44 @@ COP (y axis) vs Plant demand (TR)
 #### Simulations and results:
 
 A simulation is done with the expected increase in condensation capacity and estimated reduction in discharge pressure for every point of data. Through a machine learning model the expected power consumption is calculated and estimated savings for the installation of new equipment is obtained. Results are not shown for disclosure but through them the industrial site could decide which equipment size was better for their needs.
+
+
+## Project 3
+**Compressor sequencing algorithm for an industrial refrigeration system**
+
+##### Objective:
+
+The objective of this project was to develop an optimized sequencing algorithm (Python) on the turn on/turn off from 9 compressors from an industrial ammonia vapour compression refrigeration site. 
+
+##### Actual state of the system:
+
+Initially, we analyze more than 8 months of data on a 5 minute granularity to obtain necessary information on improvement possibilities. We can observe through the demand flow rates that the nature of the plant is quite variable through time, and so the possibilities of sequencing start becoming realistic.
+
+Demand distribution for all 3 main user groups (flow rate in gpm):
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/13320079-fdb1-45a2-8e32-96539669667b)
+
+As we manipulate the data in python in order to being able to analyze sequence by sequence of compressors, we detect different efficiencies for the vast combination of compressor sequences that occur on the system.
+
+Flow rate (X axis) vs Efficiency (Y axis) - feature: sequences in colors:
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/675d5923-18a1-435e-be98-fbec57bcec74)
+
+Different efficiences for the different sequences conclude certainly on the possibility of improving performance through the use of more efficient sequences:
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/a776c0b4-5d33-4341-8273-d75d67f74a01)
+
+
+##### Algorithm Development:
+
+Through the selection of the most optimal sequences and optimization of the load factor, we simulate the possible behaviour of the system on the possible implementation of the algorithm.
+
+Current load factor (orange) vs Simulated load factor (blue):
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/587b9065-c288-43c6-8cf9-d24950b97133)
+
+
+##### Results:
+
+After implementation of the algorithm outputs on site, a considerable increase in the load factor was achieved with savings estimated at around 5% of total consumption. 
+
+Load Factor Distribution - before (blue) and after implementation (red):
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/2d057b55-a32a-4c7a-9065-0e81504403c2)
 
 
