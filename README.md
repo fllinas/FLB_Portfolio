@@ -1,4 +1,4 @@
-# Energy Analyst/Consultant Portfolio
+# Energy Analyst Portfolio
 **Fabrizio Llinás Biava**
 
 ##### List of projects:
@@ -124,6 +124,7 @@ Discharge pressure (Y axis) vs Estimated plant demand (X axis).
 A calculation of the systems COP (Coefficient of Performance) is done using enthalpies of ammonia whilst considering the changes of state of the substance through the consumers. COP is further evaluated and is found to start reducing when plant starts to exceed a given value.
 
 COP (y axis) vs Plant demand (TR)
+
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/f6eb6268-6ba9-4826-b888-88c2e42bd00a)
 
 
