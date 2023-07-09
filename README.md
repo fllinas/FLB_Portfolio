@@ -65,5 +65,8 @@ Annualized and Normalized Energy and Material Balances:
 ## Project 2
 Condensing capacity increase on an industrial refrigeration system
 
+##### Objective:
+The objective of this project is to detect the necessity of a condensation capacity increase for an compressed NH3 refrigeration system whilst estimating the potential savings that could be achieved on installing different sizes.
+
 
 
