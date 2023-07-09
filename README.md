@@ -16,8 +16,6 @@
 
 
 
-
-
 ## Project 1
 **Master Thesis: Optimization of the design of a and scheduling of a biomethane plant integrated with a reversible Solid Oxide Cell and a PV solar field.**
 
@@ -191,3 +189,44 @@ Load Factor Distribution - before (blue) and after implementation (red):
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/2d057b55-a32a-4c7a-9065-0e81504403c2)
 
 
+## Project 4
+**Savings estimation for instalation of a new coal boiler economizer**
+
+##### Objective:
+The objective of this project was to quantify the potential benefit of the installation of a new boiler economizer for a coal boiler. 
+
+##### Actual state of the system:
+
+
+## Project 5
+**Analysis of parameter influences on an absorption system**
+
+##### Objective:
+The objective of this project was to analize the effect of different process variables on the efficiency and performance of an industrial refrigeration site using NH3 absorption.
+
+##### Sensibility Analyisis:
+
+After the calculation of a the systems KPI (Coefficient of Performance) we evaluate the effects of the important variables on the performance using data over almost 1 year. A sensibility analysis is performed on the most important variables of the system consisting on finding which variables have a considerable effect on the COP.
+
+Sensibility analysis of process variable#XX vs KPI of the system:
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/7b8737a6-a7ed-45ee-b448-82acc7d2723f)
+
+
+##### Periodic changes:
+Besides the analysis on the effects of the variables on the KPI, an analyisis was made on the effect of operational changes in the system. Client defined the operational changes and their timeframes and an analyisis was ran on the effects of these changes on variables and KPIs, resulting on evaluations on good or bad effects on control variations. A huge simplification is done on this explanation as the system consisted on a considerable amount of variables as well as the functioning of 3 similar systems in paralell.
+
+Box plot: Operational period (y axis) vs efficiency of the system (x axis): 
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/bde2274b-bcab-4319-a9b0-4079793c8baf)
+
+
+##### Results:
+Through the use from a developed baseline (machine learning model) for gas consumption prediction and monitoring of the variable values plus operational changes, savings were achieved as a significant increase on the system performance was achieved.
+
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ed282e78-72de-4322-94cf-816c848a8ea1)
+
+
+## Project 6
+**Discharge pressure reduction on an industrial refrigeration system**
+
+##### Objective:
+The objective of this project was to 
