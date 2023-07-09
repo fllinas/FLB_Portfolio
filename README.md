@@ -56,10 +56,45 @@ Furthermore, forecasted scenarios are inputed to evaluate results in different p
 The python MILP algorithm was proven to being able to simulate the operation of the integrated energy plant and obtain the optimal results on selection of equipment, optimal sizing and hour by hour operation whilst maximizing the annual profits.
 
 Results per Scenario:
+
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/233e6455-eee6-425f-b11f-a3b6a8d882b9)
 
 Annualized and Normalized Energy and Material Balances:
+
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/48603e18-43da-44e6-921d-4bf4dbc5ab0b)
+
+
+#### Conclusions:
+
+The key results of this thesis are:
+1. A MILP optimization model for the design and scheduling of an integrated multi-energy plant
+is developed in PYTHON (Anaerobic Digester + Biogas Upgrading + rSOC + methanator +
+PV + BESS).
+2. The model is based on linearized on-design/off-design performances and costs starting from
+detailed first principle models (Aspen Plus, Matlab, etc.) of the components.
+3. Different "typical periods" are assessed in order to get a reasonable trade-off between
+computational time and accuracy. The selected approach is with 6 typical days + 3 extreme
+ones.
+4. Twelve alternative scenarios are investigated, each one reflecting different capital costs (present
+day vs 2050-time horizon) and constraints (e.g. no net energy import, 100%-renewable, and
+carbon related incentives/restrictions). Results show that SOFC is installed in "no net energy
+import" scenarios and in case of higher market penetration (i.e. year 2050).
+5. Sensitivity is carried out for a number of parameters. The most interesting one is on the
+"additional premium tariff" (i.e. incentives) the plant will receive for ancillary services on the
+electricity market. Results show that in case the Ancillary Service Factor (i.e. additional
+revenue for the plant for the energy storage service) is 50% on top of the electricity price then
+the electrolysis cell mode is selected for this 2050 scenario. The system now acts as a “big
+battery” enabling interactions between the fully decarbonized electricity grid and a “greener”
+gas grid, by absorbing exceeding electric power coming from peak RES afternoon and
+converting it into biomethane
+Economic analysis on 3 interesting scenarios (1D, 3C and ASF=1.75) of the plant design show
+that a retrofit option is of big interest for 2050 old anaerobic digesters that might be thought of
+being dismantled; on the other hand, the full plant option (including AD) requires a gross
+financing for the different plant designs with gate fees of over 90 €/ton.
+7. The interactions amongst the different units in matter of energy and material streams are indeed
+of interest as the system selects the multiple conversion and storage units whilst satisfying for
+their multiple and variable demands of electricity and heat. The system can be optimized for
+different power-to-gas, gas-to-power and power-to-power scenarios.
 
 
 ## Project 2
