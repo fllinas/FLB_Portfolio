@@ -110,8 +110,13 @@ The objective of this project is to detect the necessity of a condensation capac
 
 Through the analysis of 6 monhts of data on a 10 minute granularity an initial data analysis is done to detect the behaviour of the important parameters. These being: flow rates, discharge pressures, suction pressures, compressor consumptions all from both lower and high stage pressure levels. Anomalies are detected on the high variations on ranges of discharge pressures mainly when an increase in demand is observed (high flow rates)
 
-Discharge pressure (Y axis) vs Flow rate (X axis). Ambient temperature in colors.
-![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ad2082b2-5e84-4059-99c4-30fc48169db0)
+High stage flow rate (Y axis) vs Low stage flow rate (X axis). Ligher colors indicate higher discharge pressures.
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/75675ff7-e693-4ec0-ad85-d048358989a0)
+
+
+Discharge pressure (Y axis) vs Estimated plant demand (X axis).
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/00e8a339-9c56-4a76-93e8-813ace73236e)
+
 
 
 ##### Energy efficiency of the industrial site:
@@ -119,6 +124,12 @@ Discharge pressure (Y axis) vs Flow rate (X axis). Ambient temperature in colors
 A calculation of the systems COP (Coefficient of Performance) is done using enthalpies of ammonia whilst considering the changes of state of the substance through the consumers. COP is further evaluated and is found to start reducing when plant starts to exceed a given value.
 
 COP (y axis) vs Plant demand (TR)
-![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/3b0888a4-f020-4e03-9581-f8d92cbee9f3)
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/f6eb6268-6ba9-4826-b888-88c2e42bd00a)
+
+
+
+#### Simulations and results:
+
+A simulation is done with the expected increase in condensation capacity and estimated reduction in discharge pressure for every point of data. Through a machine learning model the expected power consumption is calculated and estimated savings for the installation of new equipment is obtained. Results are not shown for disclosure but through them the industrial site could decide which equipment size was better for their needs.
 
 
