@@ -13,6 +13,11 @@
 8. Tecnoeconomic analysis of instalation of a solar thermal field
 
 
+
+
+
+
+
 ## Project 1
 **Master Thesis: Optimization of the design of a and scheduling of a biomethane plant integrated with a reversible Solid Oxide Cell and a PV solar field.**
 
@@ -99,6 +104,11 @@ different power-to-gas, gas-to-power and power-to-power scenarios.
 
 
 
+
+
+
+
+
 ## Project 2
 **Condensing capacity increase on an industrial refrigeration system**
 
@@ -132,6 +142,13 @@ COP (y axis) vs Plant demand (TR)
 #### Simulations and results:
 
 A simulation is done with the expected increase in condensation capacity and estimated reduction in discharge pressure for every point of data. Through a machine learning model the expected power consumption is calculated and estimated savings for the installation of new equipment is obtained. Results are not shown for disclosure but through them the industrial site could decide which equipment size was better for their needs.
+
+
+
+
+
+
+
 
 
 ## Project 3
