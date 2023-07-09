@@ -9,13 +9,13 @@ Master of Science in Energy Engineering from Politecnico di Milano with experien
 ##### List of projects:
 
 1. [Master Thesis: Optimization of integrated energy plant](#project-1)
-2. Condensing capacity increase on an industrial refrigeration system
-3. Compressor sequencing algorithm for an industrial refrigeration system
-4. Savings estimation for instalation of a new coal boiler economizer
-5. Analysis of parameter influences on an absorption system
-6. Discharge pressure reduction on an industrial refrigeration system
-7. Machine learning algorithms for energy savings estimation
-8. Tecnoeconomic analysis of instalation of a solar thermal field
+2. [Condensing capacity increase on an industrial refrigeration system](#project-2)
+3. [Compressor sequencing algorithm for an industrial refrigeration system](#project-3)
+4. [Savings estimation for instalation of a new coal boiler economizer](#project-4)
+5. [Analysis of parameter influences on an absorption system](#project-5)
+6. [Discharge pressure reduction on an industrial refrigeration system](#project-6)
+7. [Machine learning algorithms for energy savings estimation](#project-7)
+8. [Tecnoeconomic analysis of instalation of a solar thermal field](#project-8)
 
 
 
@@ -232,6 +232,20 @@ Through the use from a developed baseline (machine learning model) for gas consu
 
 ## Project 6
 **Discharge pressure reduction on an industrial refrigeration system**
+
+##### Objective:
+The objective of this project was to 
+
+
+## Project 7
+**Machine learning algorithms for energy savings estimation**
+
+##### Objective:
+The objective of this project was to 
+
+
+## Project 8
+**Tecnoeconomic analysis of instalation of a solar thermal field**
 
 ##### Objective:
 The objective of this project was to 
