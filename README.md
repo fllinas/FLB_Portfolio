@@ -24,6 +24,8 @@ fabriziollinas12@gmail.com
 7. [Machine learning algorithms for energy savings estimation](#project-7)
 8. [Tecnoeconomic analysis of instalation of a solar thermal field](#project-8)
 
+<br/><br/>
+<br/><br/>
 
 | Project Number  | Energy Knowledge | Data Analyisis Skills (Python) | Project Management Skills |
 | ------------- |:-------------:|:-------------:|:-------------:|
