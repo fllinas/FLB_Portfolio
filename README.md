@@ -1,7 +1,19 @@
-# Energy Analyst Portfolio
+# Energy Analyst/Consultant Portfolio
 **Fabrizio Llinás Biava**
 
-## Project 1: 
+##### List of projects:
+
+1. Master Thesis: Optimization of integrated energy plant
+2. Condensing capacity increase on an industrial refrigeration system
+3. Compressor sequencing algorithm for an industrial refrigeration system
+4. Savings estimation for instalation of a new coal boiler economizer
+5. Analysis of parameter influences on an absorption system
+6. Discharge pressure reduction on an industrial refrigeration system
+7. Machine learning algorithms for energy savings estimation
+8. Tecnoeconomic analysis of instalation of a solar thermal field
+
+
+## Project 1
 Master Thesis: Optimization of the design of a and scheduling of a biomethane plant integrated with a reversible Solid Oxide Cell and a PV solar field.
 
 ##### Objective:
