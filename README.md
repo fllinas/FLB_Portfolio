@@ -6,6 +6,8 @@ fabriziollinas12@gmail.com
 
 **Master of Science in Energy Engineering from Politecnico di Milano with experience as projects engineer and data analyst. Expert in energy systems optimization, data analysis and machine learning with Python.**
 
+<br/><br/>
+
 | Language  | Proficiency |
 | ------------- |:-------------:|
 | Spanish      | :star: :star: :star: :star: :star:     |
@@ -25,7 +27,6 @@ fabriziollinas12@gmail.com
 8. [Tecnoeconomic analysis of instalation of a solar thermal field](#project-8)
 
 <br/><br/>
-<br/><br/>
 
 | Project Number  | Energy Knowledge | Data Analyisis Skills (Python) | Project Management Skills |
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -38,7 +39,7 @@ fabriziollinas12@gmail.com
 | **7** | :heavy_check_mark: | :heavy_check_mark: | |
 | **8** | :heavy_check_mark: | | |
 
-
+<br/><br/>
 
 
 
