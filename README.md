@@ -8,7 +8,7 @@ Master of Science in Energy Engineering from Politecnico di Milano with experien
 
 ##### List of projects:
 
-1. Master Thesis: Optimization of integrated energy plant
+1. [Master Thesis: Optimization of integrated energy plant](#Project 1)
 2. Condensing capacity increase on an industrial refrigeration system
 3. Compressor sequencing algorithm for an industrial refrigeration system
 4. Savings estimation for instalation of a new coal boiler economizer
