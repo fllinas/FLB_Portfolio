@@ -19,6 +19,9 @@ Master Thesis: Optimization of the design of a and scheduling of a biomethane pl
 ##### Objective:
 The objective of this thesis is to model and numerically optimize the design and scheduling of an integrated biogas-based energy plant. Optimization is carried out by formulating and implementing a mixed integer linear program (MILP) in Python, in order to obtain the optimal plant configuration, components sizing and operational strategy under different scenarios, whilst targeting the solution with the minimum annualized costs. 
 
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/a2bb6337-e691-42e1-81dc-61433e203bdc)
+
+
 ##### Components of Energy System:
 The energy system modelled and optimized in this thesis comprises the following six sections:
 1. A biomethane production section, featuring the anaerobic digestion of organic fraction of municipal
