@@ -25,6 +25,18 @@ Master of Science in Energy Engineering from Politecnico di Milano with experien
 8. [Tecnoeconomic analysis of instalation of a solar thermal field](#project-8)
 
 
+| Project Number  | Energy Knowledge | Data Analyisis Skills (Python) | Project Management Skills |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| **1** | :heavy_check_mark: | :heavy_check_mark: | |
+| **2** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **3** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **4** | :heavy_check_mark: |  | |
+| **5** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **6** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **7** | :heavy_check_mark: | :heavy_check_mark: | |
+| **8** | :heavy_check_mark: | right foo     | |
+
+
 
 
 
