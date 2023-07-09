@@ -4,7 +4,7 @@
 
 fabriziollinas12@gmail.com
 
-Master of Science in Energy Engineering from Politecnico di Milano with experience as projects engineer and data analyst. Expert in energy systems optimization, data analysis and machine learning with Python.
+**Master of Science in Energy Engineering from Politecnico di Milano with experience as projects engineer and data analyst. Expert in energy systems optimization, data analysis and machine learning with Python.**
 
 | Language  | Proficiency |
 | ------------- |:-------------:|
@@ -34,7 +34,7 @@ Master of Science in Energy Engineering from Politecnico di Milano with experien
 | **5** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **6** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **7** | :heavy_check_mark: | :heavy_check_mark: | |
-| **8** | :heavy_check_mark: | right foo     | |
+| **8** | :heavy_check_mark: | | |
 
 
 
