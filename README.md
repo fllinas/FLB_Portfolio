@@ -6,7 +6,6 @@ fabriziollinas12@gmail.com
 
 **Master of Science in Energy Engineering from Politecnico di Milano with experience as projects engineer and data analyst. Expert in energy systems optimization, data analysis and machine learning with Python.**
 
-<br/><br/>
 
 | Language  | Proficiency |
 | ------------- |:-------------:|
@@ -126,13 +125,7 @@ of interest as the system selects the multiple conversion and storage units whil
 their multiple and variable demands of electricity and heat. The system can be optimized for
 different power-to-gas, gas-to-power and power-to-power scenarios.
 
-
-
-
-
-
-
-
+<br/><br/>
 
 ## Project 2
 **Condensing capacity increase on an industrial refrigeration system**
@@ -168,13 +161,7 @@ COP (y axis) vs Plant demand (TR)
 
 A simulation is done with the expected increase in condensation capacity and estimated reduction in discharge pressure for every point of data. Through a machine learning model the expected power consumption is calculated and estimated savings for the installation of new equipment is obtained. Results are not shown for disclosure but through them the industrial site could decide which equipment size was better for their needs.
 
-
-
-
-
-
-
-
+<br/><br/>
 
 ## Project 3
 **Compressor sequencing algorithm for an industrial refrigeration system**
@@ -215,6 +202,7 @@ After implementation of the algorithm outputs on site, a considerable increase i
 Load Factor Distribution - before (blue) and after implementation (red):
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/2d057b55-a32a-4c7a-9065-0e81504403c2)
 
+<br/><br/>
 
 ## Project 4
 **Savings estimation for instalation of a new coal boiler economizer**
@@ -224,6 +212,7 @@ The objective of this project was to quantify the potential benefit of the insta
 
 ##### Actual state of the system:
 
+<br/><br/>
 
 ## Project 5
 **Analysis of parameter influences on an absorption system**
@@ -251,6 +240,7 @@ Through the use from a developed baseline (machine learning model) for gas consu
 
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ed282e78-72de-4322-94cf-816c848a8ea1)
 
+<br/><br/>
 
 ## Project 6
 **Discharge pressure reduction on an industrial refrigeration system**
@@ -258,6 +248,7 @@ Through the use from a developed baseline (machine learning model) for gas consu
 ##### Objective:
 The objective of this project was to 
 
+<br/><br/>
 
 ## Project 7
 **Machine learning algorithms for energy savings estimation**
@@ -265,9 +256,12 @@ The objective of this project was to
 ##### Objective:
 The objective of this project was to 
 
+<br/><br/>
 
 ## Project 8
 **Tecnoeconomic analysis of instalation of a solar thermal field**
 
 ##### Objective:
 The objective of this project was to 
+
+<br/><br/>
