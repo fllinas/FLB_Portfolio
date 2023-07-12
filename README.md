@@ -180,10 +180,10 @@ Demand distribution for all 3 main user groups (flow rate in gpm):
 
 As we manipulate the data in python in order to being able to analyze sequence by sequence of compressors, we detect different efficiencies for the vast combination of compressor sequences that occur on the system.
 
-Flow rate (X axis) vs Efficiency (Y axis) - feature: sequences in colors:
+Flow rate (X axis) vs Efficiency (Y axis) - feature: sequences in colors:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/675d5923-18a1-435e-be98-fbec57bcec74)
 
-Different efficiences for the different sequences conclude certainly on the possibility of improving performance through the use of more efficient sequences:
+Different efficiences for the different sequences conclude certainly on the possibility of improving performance through the use of more efficient sequences:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/a776c0b4-5d33-4341-8273-d75d67f74a01)
 
 
