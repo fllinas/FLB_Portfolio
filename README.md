@@ -33,6 +33,7 @@ fabriziollinas12@gmail.com
 ##### Objective:
 The objective of this thesis is to model and numerically optimize the design and scheduling of an integrated biogas-based energy plant. Optimization is carried out by formulating and implementing a mixed integer linear program (MILP) in Python, in order to obtain the optimal plant configuration, components sizing and operational strategy under different scenarios, whilst targeting the solution with the minimum annualized costs. 
 
+Problem statement and optimization formulation:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/a2bb6337-e691-42e1-81dc-61433e203bdc)
 
 
@@ -51,6 +52,7 @@ via methanation from H2 (from water electrolysis in SOEC mode) and CO2 from biog
 the alternate, discontinuous, electro-chemical processes;
 6. A boiler, working as a hot utility to satisfy peak thermal duties.
 
+Integrated energy plant - components, energy streams and material streams: <br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/23474321-872f-41ab-82ec-9ace319ff09e)
 
 
@@ -58,10 +60,10 @@ the alternate, discontinuous, electro-chemical processes;
 
 Due to the high amount of data corresponding to years of simulation, a k-means clustering algorithm is used to reduce inputs into more manageable amount of information. In this work, the annual data corresponding to ambient temperature, solar irradiance, gas prices and electricity prices is reduced into 6 different clusters combining typical and extreme periods whilst considering different time frames in the form of days and weeks (typical days and/or typical weeks and extreme periods to evaluate plant performance).
 
+Clustered hourly profiles for 6 typical days during the year: <br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/f4fe3414-df8e-4b13-b342-6a1b33bb3022)
 
-Furthermore, forecasted scenarios are inputed to evaluate results in different present and futuristic possiblities. This result in the combination of 12 different scenarios for the simulation.
-
+Furthermore, forecasted scenarios are inputed to evaluate results in different present and futuristic possiblities. This result in the combination of 12 different scenarios for the simulation: <br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/8238d77f-55bc-4eee-b7a2-7fbc105871bd)
 
 
@@ -69,11 +71,11 @@ Furthermore, forecasted scenarios are inputed to evaluate results in different p
 
 The python MILP algorithm was proven to being able to simulate the operation of the integrated energy plant and obtain the optimal results on selection of equipment, optimal sizing and hour by hour operation whilst maximizing the annual profits.
 
-Results per Scenario:
+Results per Scenario:<br/><br/>
 
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/233e6455-eee6-425f-b11f-a3b6a8d882b9)
 
-Annualized and Normalized Energy and Material Balances:
+Annualized and Normalized Energy and Material Balances:<br/><br/>
 
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/48603e18-43da-44e6-921d-4bf4dbc5ab0b)
 
@@ -123,11 +125,11 @@ The objective of this project is to detect the necessity of a condensation capac
 
 Through the analysis of 6 monhts of data on a 10 minute granularity an initial data analysis is done to detect the behaviour of the important parameters. These being: flow rates, discharge pressures, suction pressures, compressor consumptions all from both lower and high stage pressure levels. Anomalies are detected on the high variations on ranges of discharge pressures mainly when an increase in demand is observed (high flow rates)
 
-High stage flow rate (Y axis) vs Low stage flow rate (X axis). Ligher colors indicate higher discharge pressures.
+High stage flow rate (Y axis) vs Low stage flow rate (X axis) - Ligher colors indicate higher discharge pressures:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/75675ff7-e693-4ec0-ad85-d048358989a0)
 
 
-Discharge pressure (Y axis) vs Estimated plant demand (X axis).
+Discharge pressure (Y axis) vs Estimated plant demand (X axis):<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/00e8a339-9c56-4a76-93e8-813ace73236e)
 
 
@@ -136,7 +138,7 @@ Discharge pressure (Y axis) vs Estimated plant demand (X axis).
 
 A calculation of the systems COP (Coefficient of Performance) is done using enthalpies of ammonia whilst considering the changes of state of the substance through the consumers. COP is further evaluated and is found to start reducing when plant starts to exceed a given value.
 
-COP (y axis) vs Plant demand (TR)
+COP (y axis) vs Plant demand (TR): <br/><br/>
 
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/f6eb6268-6ba9-4826-b888-88c2e42bd00a)
 
@@ -159,7 +161,7 @@ The objective of this project was to develop an optimized sequencing algorithm (
 
 Initially, we analyze more than 8 months of data on a 5 minute granularity to obtain necessary information on improvement possibilities. We can observe through the demand flow rates that the nature of the plant is quite variable through time, and so the possibilities of sequencing start becoming realistic.
 
-Demand distribution for all 3 main user groups (flow rate in gpm):
+Demand distribution for all 3 main user groups (flow rate in gpm): <br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/4957689d-808f-4c4c-a96c-410cdab90c6a)
 
 
@@ -176,7 +178,7 @@ Different efficiences for the different sequences conclude certainly on the poss
 
 Through the selection of the most optimal sequences and optimization of the load factor, we simulate the possible behaviour of the system on the possible implementation of the algorithm.
 
-Current load factor (orange) vs Simulated load factor (blue):
+Current load factor (orange) vs Simulated load factor (blue):<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/587b9065-c288-43c6-8cf9-d24950b97133)
 
 
@@ -184,7 +186,7 @@ Current load factor (orange) vs Simulated load factor (blue):
 
 After implementation of the algorithm outputs on site, a considerable increase in the load factor was achieved with savings estimated at around 5% of total consumption. 
 
-Load Factor Distribution - before (blue) and after implementation (red):
+Load Factor Distribution - before (blue) and after implementation (red):<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/2d057b55-a32a-4c7a-9065-0e81504403c2)
 
 <br/><br/>
@@ -228,19 +230,19 @@ The objective of this project was to analize the effect of different process var
 
 After the calculation of a the systems KPI (Coefficient of Performance) we evaluate the effects of the important variables on the performance using data over almost 1 year. A sensibility analysis is performed on the most important variables of the system consisting on finding which variables have a considerable effect on the COP.
 
-Sensibility analysis of process variable#XX vs KPI of the system:
+Sensibility analysis of process variable#XX vs KPI of the system:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/7b8737a6-a7ed-45ee-b448-82acc7d2723f)
 
 
 ##### Periodic changes:
 Besides the analysis on the effects of the variables on the KPI, an analyisis was made on the effect of operational changes in the system. Client defined the operational changes and their timeframes and an analyisis was ran on the effects of these changes on variables and KPIs, resulting on evaluations on good or bad effects on control variations. A huge simplification is done on this explanation as the system consisted on a considerable amount of variables as well as the functioning of 3 similar systems in paralell.
 
-Box plot: Operational period (y axis) vs efficiency of the system (x axis): 
+Box plot: Operational period (y axis) vs efficiency of the system (x axis): <br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/bde2274b-bcab-4319-a9b0-4079793c8baf)
 
 
 ##### Results:
-Through the use from a developed baseline (machine learning model) for gas consumption prediction and monitoring of the variable values plus operational changes, savings were achieved as a significant increase on the system performance was achieved.
+Through the use from a developed baseline (machine learning model) for gas consumption prediction and monitoring of the variable values plus operational changes, savings were achieved as a significant increase on the system performance was achieved.<br/><br/>
 
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ed282e78-72de-4322-94cf-816c848a8ea1)
 
@@ -273,10 +275,10 @@ These project refers to multiple "baselines" developed in order to monitor and e
 ##### Context:
 In order to keep track of the performance of an energy system, a "baseline" is developed using the system's demand as feature with the objective of predicting the energy consumption (gas, electricity, coal, etc). This baseline could be based on one different types of machine learning models (linear regression, random forests, KNN, amongst others) and should obtain certain statistical parameters in order for it to be able to be used as a trustworthy measure of energy savings. I have developed many baselines (on python) for different perimeters in industries (boilers, turbines, compressors, full site electric consumption, amongst others) and they have been used as a reference to measure energy performance and energy optimization iniciatives.
 
-Prediction vs Real measurement for a train vs test set of gas consumption (m3/h) on an industrial boiler.<br/><br/>
+Prediction vs Real measurement for a train vs test set of gas consumption (m3/h) on an industrial boiler:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/be59c9ad-54bc-42a7-8fde-8d51d468841c)
 
-Prediction vs Real measurement for a train vs test set of an electricity consumption (kWh/d) on an industrial refrigeration system.<br/><br/>
+Prediction vs Real measurement for a train vs test set of an electricity consumption (kWh/d) on an industrial refrigeration system:<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ee9ebeac-3766-4587-95f9-ac65e240e61e)
 
 
