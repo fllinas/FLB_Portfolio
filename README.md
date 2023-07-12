@@ -227,7 +227,8 @@ New flew gas temperature vs inlet gas temperature vs Outlet water temperature (f
 
 
 Economizer heat trasnfer area needed to satisfy an outlet temperature of 300°F during boxplot given percentile of time (Example 1225 m2 to reach that temperature 50% of the time):
-![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/73ff1f9e-443e-4dca-ad60-732d22ee5f35)
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/55c83e36-5024-4dec-b47b-84fec968d802)
+
 
 
 <br/><br/>
