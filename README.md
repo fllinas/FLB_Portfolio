@@ -259,7 +259,17 @@ The objective of this project was to
 **Machine learning algorithms for energy savings estimation**
 
 ##### Objective:
-The objective of this project was to 
+These project refers to multiple "baselines" developed in order to monitor and estimate energy savings on different industries (after an energy efficiency measurement is taken). 
+
+##### Context:
+In order to keep track of the performance of an energy system, a "baseline" is developed using the system's demand as feature with the objective of predicting the energy consumption (gas, electricity, coal, etc). This baseline could be based on one different types of machine learning models (linear regression, random forests, KNN, amongst others) and should obtain certain statistical parameters in order for it to be able to be used as a trustworthy measure of energy savings. I have developed many baselines (on python) for different perimeters in industries (boilers, turbines, compressors, full site electric consumption, amongst others) and they have been used as a reference to measure energy performance and energy optimization iniciatives.
+
+Prediction vs Real measurement for a train vs test set of gas consumption (m3/h) on an industrial boiler.<br/><br/>
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/be59c9ad-54bc-42a7-8fde-8d51d468841c)
+
+Prediction vs Real measurement for a train vs test set of an electricity consumption (kWh/d) on an industrial refrigeration system.<br/><br/>
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/ee9ebeac-3766-4587-95f9-ac65e240e61e)
+
 
 <br/><br/>
 
