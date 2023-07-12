@@ -214,7 +214,7 @@ The objective of this project was to quantify the potential benefit of the insta
 
 Through live data for almost a year from a coal boiler, we are able to detect the necessity of taking advantage of the flue gas being released at over 250 °C to the atmosphere. An economizer would indeed increase the efficiency of the boiler and hence reduce the coal consumption (carbon emissions and savings). 
 
-Real time measurements of important variables of the system (gas flow rate, water flow rate, outlet flue gas temperature and inlet water temperature):
+Real time measurements of important variables of the system (gas flow rate, water flow rate, outlet flue gas temperature and inlet water temperature): <br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/b4ea00cb-afad-4f7f-86bb-39321a3fd6e3)
 
 
