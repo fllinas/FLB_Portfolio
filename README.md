@@ -251,7 +251,17 @@ Through the use from a developed baseline (machine learning model) for gas consu
 **Discharge pressure reduction on an industrial refrigeration system**
 
 ##### Objective:
-The objective of this project was to 
+The objective of this project was to reduce the discharge pressure of an NH3 vapour compression industrial refrigeration site with the installation of a new evaporative condenser. Initially a prediction on potential savings is made, whilst after the installation of the equipment optimal point of operation is further evaluated.
+
+##### Analysis and Results:
+As it was observed initially, very high discharge pressure where increasing the system's electricity consumption and the installation of more condensing capacity was reccomended. Selection of the correct equipment was done through data, and after the excecution of the project an initial reduction on the pressure was indeed achieved. Furthermore, a post monitoring on the pressure reduction was vital to observe that the pressure's set point lower limit could be even reduced more. Backing up this initiative with a minimum pressure optimization algorithm, lower pressures for the system were achieved without compromising its safety and thus electrical consumption of the industrial site was reduced. 
+
+Discharge pressure reduction through project energy efficiency measurements:<br/><br/>
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/b7ba6722-e349-4c20-b16d-13055989f64e)
+
+Energy consumption baseline for energy savings considering production data: <br/><br/>
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/f58e2bfe-05df-4496-aaa4-501c4f2a8162)
+
 
 <br/><br/>
 
