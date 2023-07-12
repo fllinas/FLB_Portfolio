@@ -23,7 +23,6 @@ fabriziollinas12@gmail.com
 5. [Analysis of parameter influences on an absorption system](#project-5)
 6. [Discharge pressure reduction on an industrial refrigeration system](#project-6)
 7. [Machine learning algorithms for energy savings estimation](#project-7)
-8. [Tecnoeconomic analysis of instalation of a solar thermal field](#project-8)
 
 <br/><br/>
 
@@ -283,10 +282,3 @@ Prediction vs Real measurement for a train vs test set of an electricity consump
 
 <br/><br/>
 
-## Project 8
-**Tecnoeconomic analysis of instalation of a solar thermal field**
-
-##### Objective:
-The objective of this project was to 
-
-<br/><br/>
