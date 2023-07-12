@@ -212,6 +212,24 @@ The objective of this project was to quantify the potential benefit of the insta
 
 ##### Actual state of the system:
 
+Through live data for almost a year from a coal boiler, we are able to detect the necessity of taking advantage of the flue gas being released at over 250 °C to the atmosphere. An economizer would indeed increase the efficiency of the boiler and hence reduce the coal consumption (carbon emissions and savings). 
+
+Real time measurements of important variables of the system (gas flow rate, water flow rate, outlet flue gas temperature and inlet water temperature):
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/b4ea00cb-afad-4f7f-86bb-39321a3fd6e3)
+
+
+##### Solution and results:
+
+Through the iterative solution of a system of equation resultant of the mass and energy balances we are able to estimate the outlet temperature of the system and hence the necessary area for the economizer to be installed. Client could in the end select the necessary equipment to match their needs.
+
+New flew gas temperature vs inlet gas temperature vs Outlet water temperature (for a given size of economizer):
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/3a463241-bc56-4315-8191-d5116bc82f6f)
+
+
+Economizer heat trasnfer area needed to satisfy an outlet temperature of 300°F during boxplot given percentile of time (Example 1225 m2 to reach that temperature 50% of the time):
+![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/73ff1f9e-443e-4dca-ad60-732d22ee5f35)
+
+
 <br/><br/>
 
 ## Project 5
