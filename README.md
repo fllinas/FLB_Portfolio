@@ -222,11 +222,11 @@ Real time measurements of important variables of the system (gas flow rate, wate
 
 Through the iterative solution of a system of equation resultant of the mass and energy balances we are able to estimate the outlet temperature of the system and hence the necessary area for the economizer to be installed. Client could in the end select the necessary equipment to match their needs.
 
-New flew gas temperature vs inlet gas temperature vs Outlet water temperature (for a given size of economizer):
+New flew gas temperature vs inlet gas temperature vs Outlet water temperature (for a given size of economizer):<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/3a463241-bc56-4315-8191-d5116bc82f6f)
 
 
-Economizer heat trasnfer area needed to satisfy an outlet temperature of 300°F during boxplot given percentile of time (Example 1225 m2 to reach that temperature 50% of the time):
+Economizer heat trasnfer area needed to satisfy an outlet temperature of 300°F during boxplot given percentile of time (Example 1225 m2 to reach that temperature 50% of the time):<br/><br/>
 ![image](https://github.com/fllinas/fllinas.github.io/assets/55508521/55c83e36-5024-4dec-b47b-84fec968d802)
 
 
