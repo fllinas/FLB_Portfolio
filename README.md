@@ -27,20 +27,6 @@ fabriziollinas12@gmail.com
 
 <br/><br/>
 
-| Project Number  | Energy Knowledge | Data Analyisis Skills (Python) | Project Management Skills |
-| ------------- |:-------------:|:-------------:|:-------------:|
-| **1** | :heavy_check_mark: | :heavy_check_mark: | |
-| **2** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **3** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **4** | :heavy_check_mark: |  | |
-| **5** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **6** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **7** | :heavy_check_mark: | :heavy_check_mark: | |
-| **8** | :heavy_check_mark: | | |
-
-<br/><br/>
-
-
 
 ## Project 1
 **Master Thesis: Optimization of the design of a and scheduling of a biomethane plant integrated with a reversible Solid Oxide Cell and a PV solar field.**
