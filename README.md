@@ -17,12 +17,13 @@ fabriziollinas12@gmail.com
 ##### List of projects:
 
 1. [Master Thesis: Optimization of integrated energy plant](#project-1)
-2. [Condensing capacity increase on an industrial refrigeration system](#project-2)
-3. [Compressor sequencing algorithm for an industrial refrigeration system](#project-3)
-4. [Savings estimation for instalation of a new coal boiler economizer](#project-4)
-5. [Analysis of parameter influences on an absorption system](#project-5)
-6. [Discharge pressure reduction on an industrial refrigeration system](#project-6)
-7. [Machine learning algorithms for energy savings estimation](#project-7)
+2. [MILP Optimization of an industrial steam and electricity network](#project-2)
+3. [Condensing capacity increase on an industrial refrigeration system](#project-3)
+4. [Compressor sequencing algorithm for an industrial refrigeration system](#project-4)
+5. [Savings estimation for instalation of a new coal boiler economizer](#project-5)
+6. [Analysis of parameter influences on an absorption system](#project-6)
+7. [Discharge pressure reduction on an industrial refrigeration system](#project-7)
+8. [Machine learning algorithms for energy savings estimation](#project-8)
 
 <br/><br/>
 
@@ -115,6 +116,37 @@ different power-to-gas, gas-to-power and power-to-power scenarios.
 <br/><br/>
 
 ## Project 2
+**MILP Optimization of an industrial steam and electricity network.**
+
+##### Objective:
+The objective of this project is to optimize the operational costs of a steam and electricity generation plant from a real industrial site. Real historic data is used to calculate mass and energy balances across the site; that accompanied with the minimazation of the objective function and the definition of the manipulable variables all inside of a Mixed Integer Linear Program in Python end up with results on the optimal operation of the industrial site. Potential savings of up to 20% in costs resulted to be achievable.
+
+#### Actual state of the system:
+
+4 Boilers and 3 steam turbines compose the steam network alongside steam demands on 3 different pressure levels. The electric power demanded by the site was satisfied by either turbine power production or imported power from the electricity grid. In the end, the plant has coal and electric power bills to be payed which indeed are the objective to minimize. 
+
+Steam and Electricity Generation Industrial Plant:<br/><br/>
+![Steam network](https://github.com/user-attachments/assets/6189f673-9e87-47a7-8cda-ab83243462ae)
+
+
+#### Development of the MILP Python Algorithm:
+
+Many plant restrictions were given as constraints to othe optimizer as well as real time sensors were given as inputs. A custom built cost function was given as objective to be minimized. A more complex modelling was done for each turbine were individual models were implemented to predict the expected power production depending on the manipulated inlet steam and/or extraction. 
+
+Turbine Inlet Steam Flow rate (Y axis) vs Generated Power (X axis) - Different colors indicate different steam extraction ranges:<br/><br/>
+![image](https://github.com/user-attachments/assets/89cd6f8d-97b8-4239-a677-496b2ee666d3)
+
+#### Simulations and results:
+
+Many scenarios were run under different electricity tariffs for the plant resulting in different results depending on the operating conditions. Overall, potential of cost reductions of 20% were found through a better managment of the electricity imports vs use of coal for the boilers in the plant.
+
+Total plant costs (Y axis) vs Simulation time (X axis) - Colors indicate true costs or optimized costs resultant from simulation:<br/><br/>
+![image](https://github.com/user-attachments/assets/7754eb17-f836-4598-afb1-d2ba0f789333)
+
+
+<br/><br/>
+
+## Project 3
 **Condensing capacity increase on an industrial refrigeration system**
 
 ##### Objective:
@@ -150,7 +182,7 @@ A simulation is done with the expected increase in condensation capacity and est
 
 <br/><br/>
 
-## Project 3
+## Project 4
 **Compressor sequencing algorithm for an industrial refrigeration system**
 
 ##### Objective:
@@ -191,7 +223,7 @@ Load Factor Distribution - before (blue) and after implementation (red):<br/><br
 
 <br/><br/>
 
-## Project 4
+## Project 5
 **Savings estimation for instalation of a new coal boiler economizer**
 
 ##### Objective:
@@ -220,7 +252,7 @@ Economizer heat trasnfer area needed to satisfy an outlet temperature of 300°F 
 
 <br/><br/>
 
-## Project 5
+## Project 6
 **Analysis of parameter influences on an absorption system**
 
 ##### Objective:
@@ -248,7 +280,7 @@ Through the use from a developed baseline (machine learning model) for gas consu
 
 <br/><br/>
 
-## Project 6
+## Project 7
 **Discharge pressure reduction on an industrial refrigeration system**
 
 ##### Objective:
@@ -266,7 +298,7 @@ Energy consumption baseline for energy savings considering production data: <br/
 
 <br/><br/>
 
-## Project 7
+## Project 8
 **Machine learning algorithms for energy savings estimation**
 
 ##### Objective:
