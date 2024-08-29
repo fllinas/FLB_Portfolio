@@ -1,6 +1,6 @@
 # Projects Portfolio
 **Fabrizio Llinás Biava**
-| Energy Analyst - Energy Consultant
+| Energy Expert and Consultant
 
 fabriziollinas12@gmail.com
 
